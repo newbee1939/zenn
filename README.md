@@ -37,6 +37,9 @@
     npx zenn new:article --slug 記事のスラッグ --title タイトル --type idea --emoji ✨
     ```
 
+※slug（スラッグ）はその記事のユニークな ID のようなもの（[参考](https://zenn.dev/zenn/articles/what-is-slug)）
+※ウェブ上で記事や本を作成する場合、slug はランダムで作成される。コンテンツの GitHub リポジトリ管理を行っている場合は、slug を任意に指定できる
+
 2.  記事をプレビューする
 
     ```bash
