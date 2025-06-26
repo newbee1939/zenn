@@ -1,11 +1,11 @@
 ---
-title: "Gemini CLIが登場！"
+title: "Gemini CLIが登場"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gemini", "cli", "ai"]
 published: true
 ---
-# Gemini CLIが登場！
+# Gemini CLIが登場
 
 Googleが2024年6月25日にリリースした「Gemini CLI」は、コマンドラインでGemini 2.5 Proの強力な機能を活用できるツールです。本記事では、Gemini CLIの基本的な使い方から応用例まで、わかりやすく解説します。
 
