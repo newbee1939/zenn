@@ -39,7 +39,7 @@ Gemini CLIは、ターミナル上でAIを活用したワークフローを実�
 ### 前提条件
 - Node.js 18以上がインストールされていること
 
-### 最も簡単な方法（推奨）
+### 最も簡単な方法
 
 ```bash
 npx https://github.com/google-gemini/gemini-cli
