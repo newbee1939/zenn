@@ -43,7 +43,11 @@
     npx zenn preview
     ```
 
-3.  変更をコミットしてプッシュする
+3. publishedの設定を変更
+
+`published: true`に設定することで、記事が公開状態に設定される。
+
+4.  変更をコミットしてプッシュする
 
     ```bash
     git add .
@@ -51,7 +55,7 @@
     git push origin main
     ```
 
-4.  main ブランチにマージされると自動的に Zenn に公開されます
+5.  main ブランチにマージされると自動的に Zenn に公開されます
 
 ## CLI をアップデートする
 
