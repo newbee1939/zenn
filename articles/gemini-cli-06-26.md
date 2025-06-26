@@ -7,7 +7,7 @@ published: true
 ---
 # Gemini CLIが登場
 
-Googleが2025年にリリースした「Gemini CLI」は、コマンドラインでGemini 2.5 Proの強力な機能を活用できる革新的なツールです。本記事では、Gemini CLIの基本的な使い方から応用例まで、わかりやすく解説します。
+Googleが2025年6月25日にリリースした「Gemini CLI」は、コマンドラインでGemini 2.5 Proの強力な機能を活用できる革新的なツールです。本記事では、Gemini CLIの基本的な使い方から応用例まで、わかりやすく解説します。
 
 ## Gemini CLIとは？
 
