@@ -109,15 +109,6 @@ Model Context Protocol (MCP)を使用して、外部ツールやサービスと�
 > Search for the latest React best practices and apply them to our codebase
 ```
 
-## VS Code との連携
-
-Gemini CLIは、Googleの「Gemini Code Assist」と同じ技術を使用しており、VS Codeでも同様の体験が可能です：
-
-- チャットウィンドウでのプロンプト入力
-- エージェントモードによる複数ステップの計画実行
-- 自動復旧機能付きの実装
-- 全プラン（無料、Standard、Enterprise）で利用可能
-
 ## トラブルシューティング
 
 ### よくある問題
