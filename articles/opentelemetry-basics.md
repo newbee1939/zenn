@@ -1,5 +1,5 @@
 ---
-title: "OpenTelemetry をざっくり理解する"
+title: "OpenTelemetryをざっくり理解する"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["opentelemetry", "observability", "monitoring"]
@@ -39,7 +39,7 @@ OpenTelemetryには特有の用語が存在します。まずはそれらの概�
         - e.g. リクエストID
     - **ソフトコンテキスト**
         - トレースやメトリクスと結びつく補助的なコンテキスト情報
-        - e.g. ホスト名、タイムスタンプ
+        - e.g. ホスト名、タイムスタンプ、ユーザーID
 - **トレース**
     - 1つのトランザクションに関連するスパンの集まり
     - ハードコンテキストによって相関づけられる
@@ -49,6 +49,7 @@ OpenTelemetryには特有の用語が存在します。まずはそれらの概�
     - アプリケーションにテレメトリーデータを出力するコードを追加すること
 - **OTLP**
     - OpenTelemetryプロトコル
+    - テレメトリーデータをCollectorやバックエンドに送信するための標準フォーマット
 
 ## OpenTelemetryのアーキテクチャ
 
