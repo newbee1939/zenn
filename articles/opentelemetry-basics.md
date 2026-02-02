@@ -57,7 +57,7 @@ OpenTelemetryには特有の用語が存在します。まずはそれらの概�
 
 ![](https://storage.googleapis.com/zenn-user-upload/da56a3738f67-20260118.png)
 
-OpenTelemetryが担うのは、ApplicationとOpenTelemetry Collectorの部分です。
+**OpenTelemetryが担うのは、ApplicationとOpenTelemetry Collectorの部分**です。
 
 バックエンドシステム（e.g. Cloud Trace）に送信したあと、どのようにテレメトリーデータを可視化するかは、各ベンダーの裁量に委ねられています。
 
