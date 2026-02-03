@@ -35,7 +35,7 @@ OpenTelemetryには特有の用語が存在します。まずはそれらの概�
 - **SpanContext**
     - スパンを識別するための情報
     - テレメトリーを横断的に相関させるために必須の要素
-    - e.g. TraceID
+    - TraceID、SpanID など
 - **トレース**
     - 1つのトランザクションに関連するスパンの集まり
     - SpanContext（TraceID）によって相関づけられる
