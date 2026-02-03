@@ -97,14 +97,6 @@ OpenTelemetryは、分散システム時代のオブザーバビリティを実�
 
 ## 参考資料
 
-- [OpenTelemetry Protocol が Google Cloud Observability に登場](https://cloud.google.com/blog/ja/products/management-tools/opentelemetry-now-in-google-cloud-observability/)
 - [書籍『入門 OpenTelemetry』 / Intro of OpenTelemetry book](https://speakerdeck.com/ymotongpoo/intro-of-opentelemetry-book)
-  - 一番いいかも
 - [公式ドキュメント](https://opentelemetry.io/ja/docs/)
-- [公式ドキュメント: JavaScript](https://opentelemetry.io/ja/docs/languages/js/)
-- [TypeScriptでOpentelemetryを計装したらトレースががっつり欠損してた話](https://zenn.dev/ishii1648/articles/c8d12186ee8b40)
-- [OpenTelemetry Protocol が Google Cloud Observability に登場](https://cloud.google.com/blog/ja/products/management-tools/opentelemetry-now-in-google-cloud-observability/)
-- [Trace エクスポータから OTLP エンドポイントに移行する](https://cloud.google.com/trace/docs/migrate-to-otlp-endpoints?hl=ja)
 - [OpenTelemetry超入門](https://qiita.com/tamura__246/items/7fc035eb59d04c9dd870)
-  - Telemetry Data Flowの図が分かりやすい
-- [Telemetry API がリリースされたので OTLP で Google Cloud にスパンを送ってみた](https://zenn.dev/cloud_ace/articles/9da89c5286ad60)
