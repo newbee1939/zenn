@@ -49,9 +49,9 @@
     npx zenn preview
     ```
 
-3. publishedの設定を変更
+3.  published の設定を変更
 
-`published: true`に設定することで、記事が公開状態に設定される。
+    `published: true` に設定することで、記事が公開状態になります。
 
 4.  変更をコミットしてプッシュする
 
@@ -90,7 +90,7 @@ published_at: 2050-06-12 09:03 # 未来の日時を指定する
 
 [Zenn と Github を連携する方法](https://zenn.dev/eguchi244_dev/articles/github-zenn-linkage-20230501)
 
-Zenn と github を連携して、GitHub リポジトリで Zenn のコンテンツを管理する方法についての解説記事です。
+Zenn と GitHub を連携して、GitHub リポジトリで Zenn のコンテンツを管理する方法についての解説記事です。
 
 ### Zenn 公式ドキュメント
 
