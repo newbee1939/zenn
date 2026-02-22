@@ -5,3 +5,5 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
 published: false
 ---
+
+https://modelcontextprotocol.io/specification/2025-11-25
