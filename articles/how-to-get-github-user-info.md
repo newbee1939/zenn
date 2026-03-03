@@ -8,7 +8,7 @@ topics:
   - "tips"
   - "shell"
   - "gh"
-published: true
+published: false
 published_at: "2024-11-14 07:26"
 ---
 

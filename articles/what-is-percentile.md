@@ -6,7 +6,7 @@ topics:
   - "統計"
   - "統計学"
   - "パーセンタイル"
-published: true
+published: false
 published_at: "2024-12-09 23:30"
 ---
 

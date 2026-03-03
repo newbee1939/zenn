@@ -8,7 +8,7 @@ topics:
   - "actions"
   - "cicd"
   - "dependabot"
-published: true
+published: false
 published_at: "2025-12-03 09:17"
 ---
 

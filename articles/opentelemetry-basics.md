@@ -3,7 +3,7 @@ title: "OpenTelemetryをざっくり理解する"
 emoji: "🔭"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["opentelemetry", "observability", "monitoring", "sre"]
-published: true
+published: false
 ---
 
 ## なぜOpenTelemetryが必要なのか
