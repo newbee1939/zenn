@@ -20,8 +20,6 @@ Google Cloud で SSL 証明書を構成する方法は以下の２つです。
 
 Certificate Managerのコンソール上では、Compute Engine SSL 証明書リソースは「従来の証明書」に対応し、Certificate Managerは「証明書」に対応しています。
 
-![](https://storage.googleapis.com/zenn-user-upload/724337449f09-20241114.png)
-
 どちらの方法でも、「セルフマネージド SSL 証明書」と 「Google マネージド SSL 証明書」がサポートされています。
 
 セルフマネージド SSL 証明書 とは、ユーザー自身で取得して、プロビジョニング・更新する証明書です。
