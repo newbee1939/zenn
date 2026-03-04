@@ -8,7 +8,7 @@ topics:
   - "googlecloud"
   - "vpc"
   - "sre"
-published: false
+published: true
 published_at: "2024-12-09 06:30"
 ---
 
@@ -59,10 +59,6 @@ Private Service Connectの構成要素は大きく分けて以下の二つです
 
 
 ## Private Service Connect(PSC)を構築するチュートリアル
-
-今回作成する構成は以下の通りです。
-
-![](https://storage.googleapis.com/zenn-user-upload/de6a95062fe9-20241208.png)
 
 VPC内にあるCompute Engine同士を内部通信で接続します。
 
