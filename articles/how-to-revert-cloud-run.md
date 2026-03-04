@@ -7,7 +7,7 @@ topics:
   - "googlecloud"
   - "cloud"
   - "クラウド"
-published: false
+published: true
 published_at: "2025-02-26 17:05"
 ---
 
@@ -31,8 +31,6 @@ published_at: "2025-02-26 17:05"
 デプロイ履歴を保持する機能です。
 
 デプロイごとに自動で作成され、**各リビジョンに対してトラフィックの振り分けが可能**です。
-
-![](https://storage.googleapis.com/zenn-user-upload/7da439a828e2-20250226.png)
 
 ### Cloud Run のリビジョンを使用した切り戻し
 
