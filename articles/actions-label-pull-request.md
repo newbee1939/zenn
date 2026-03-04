@@ -7,7 +7,7 @@ topics:
   - "githubactions"
   - "tips"
   - "cicd"
-published: false
+published: true
 published_at: "2024-09-30 19:55"
 ---
 

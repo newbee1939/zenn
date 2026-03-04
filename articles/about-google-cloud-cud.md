@@ -7,7 +7,7 @@ topics:
   - "googlecloud"
   - "cud"
   - "確約利用割引"
-published: false
+published: true
 published_at: "2024-12-09 22:59"
 ---
 
