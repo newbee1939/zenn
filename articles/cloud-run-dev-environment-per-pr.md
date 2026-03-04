@@ -20,7 +20,7 @@ published_at: "2025-03-31 07:50"
 
 今回作成するシステムの構成は以下の通りです。
 
-![](https://storage.googleapis.com/zenn-user-upload/f338ed305185-20250328.jpg)
+![](https://storage.googleapis.com/zenn-user-upload/9c64f5fdaeda-20260304.png)
 
 以下の流れで処理が実行されます。
 
