@@ -8,7 +8,7 @@ topics:
   - "googlecloud"
   - "負荷試験"
   - "nestjs"
-published: false
+published: true
 published_at: "2024-08-30 22:21"
 ---
 
@@ -136,7 +136,6 @@ e.g. 負荷試験の目標
 そのため、今回は以下のようにURLのIDを複数用意してランダムに叩かせることで、なるべく本番環境と同じ状況を再現しようと試みました。
 
 同じURLだけを叩くと、キャッシュ（e.g. クエリキャッシュ）などにより正しくテストができない可能性もあるので、なるべく多様なパターンを用意する方がよいでしょう。
-![](https://storage.googleapis.com/zenn-user-upload/1ee44589861a-20240830.png)
 
 ## 7. 負荷試験を実施する
 
