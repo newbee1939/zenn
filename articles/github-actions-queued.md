@@ -6,13 +6,11 @@ topics:
   - "githubactions"
   - "tips"
   - "cicd"
-published: false
+published: true
 published_at: "2024-09-30 19:30"
 ---
 
-以下のように、GitHub Acitonsのワークフローが`Queued`のまま停止した場合に確認すべきことのメモです。
-
-![](https://storage.googleapis.com/zenn-user-upload/32e802a90d8c-20240930.png)
+GitHub Acitonsのワークフローが`Queued`のまま停止した場合に確認すべきことのメモです。
 
 ## GitHub ActionsがQueuedで停止した場合に確認すべきこと
 
@@ -40,8 +38,6 @@ https://downdetector.jp/shougai/github/
 もう一つは誤ったワークフローの書き方をしている場合です。
 
 大抵の場合は、ワークフローの記述方法にミスがあれば、ワークフローが失敗してFailureステータスに変わり、エラーメッセージが表示されます。
-
-![](https://storage.googleapis.com/zenn-user-upload/4e72d0af2bde-20240930.png)
 
 しかし、以下の場合はエラーにならず、Queuedのまま処理が停止するようです。（他にもパターンはあるのかも知れませんが、私が知っているのはこのパターンのみです）
 
