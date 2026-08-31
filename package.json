@@ -2,6 +2,6 @@
   "preview": "npx zenn preview"
 },
   "dependencies": {
-    "zenn-cli": "^0.5.2"
+    "zenn-cli": "^0.5.3"
   }
 }
