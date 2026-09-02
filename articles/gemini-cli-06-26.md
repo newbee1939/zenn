@@ -3,7 +3,7 @@ title: "Gemini CLIが登場"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gemini", "cli", "ai"]
-published: true
+published: false
 ---
 # Gemini CLIが登場
 
